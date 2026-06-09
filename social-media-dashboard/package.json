@@ -1,0 +1,6 @@
+{
+  "name": "social-media-dashboard",
+  "version": "1.0.0",
+  "description": "A full-stack social media platform with MERN stack and real-time features",
+  "private": true
+}
